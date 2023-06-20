@@ -1,4 +1,4 @@
-**NOTE: This is deprecated. Use [PermaStore](https://github.com/fcecin/pstore) instead.**
+**NOTE: This is deprecated. Use [PermaStore](https://github.com/FluxBP/pstore) instead.**
 
 **This contract is no longer deployed anywhere**
 
